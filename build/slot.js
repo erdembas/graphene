@@ -6,7 +6,7 @@ var __extends = (this && this.__extends) || function (d, b) {
 };
 var core = require("./core");
 var token = require("./token");
-var mech = require("./mech");
+var mech = require("./mech"); 
 var session = require("./session");
 (function (SlotFlag) {
     SlotFlag[SlotFlag["TOKEN_PRESENT"] = 1] = "TOKEN_PRESENT";
